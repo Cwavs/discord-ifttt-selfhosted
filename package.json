@@ -9,7 +9,7 @@
 		"lint:check": "tsc --noEmit"
 	},
 	"dependencies": {
-		"axios": "^1.7.4"
+		"axios": "^1.8.2"
 	},
 	"devDependencies": {
 		"@tsconfig/node18": "^2.0.1",
